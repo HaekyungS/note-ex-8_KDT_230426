@@ -1,0 +1,23 @@
+{
+  "name": "note-ex-8_kdt_230426",
+  "version": "1.0.0",
+  "description": "",
+  "main": "성해경.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaekyungS/note-ex-8_KDT_230426.git"
+  },
+  "author": "HaekyungSeong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaekyungS/note-ex-8_KDT_230426/issues"
+  },
+  "homepage": "https://github.com/HaekyungS/note-ex-8_KDT_230426#readme",
+  "dependencies": {
+    "inquirer": "^9.2.0"
+  }
+}
